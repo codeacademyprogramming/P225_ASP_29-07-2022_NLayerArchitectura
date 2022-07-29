@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P225NLayerArchitectura\P225NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P225NLayerArchitectura.Service.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P225NLayerArchitectura\P225NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P225NLayerArchitectura.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P225NLayerArchitectura\P225NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P225NLayerArchitectura.Service.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P225NLayerArchitectura\P225NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P225NLayerArchitectura.Service.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P225NLayerArchitectura\P225NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P225NLayerArchitectura.Service.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P225NLayerArchitectura\P225NLayerArchitectura.Service\bin\Debug\netcoreapp3.1\P225NLayerArchitectura.Service.deps.json
+C:\Users\hamid.mammadov\Desktop\P225NLayerArchitectura\P225NLayerArchitectura.Service\bin\Debug\netcoreapp3.1\P225NLayerArchitectura.Service.dll
+C:\Users\hamid.mammadov\Desktop\P225NLayerArchitectura\P225NLayerArchitectura.Service\bin\Debug\netcoreapp3.1\P225NLayerArchitectura.Service.pdb
+C:\Users\hamid.mammadov\Desktop\P225NLayerArchitectura\P225NLayerArchitectura.Service\bin\Debug\netcoreapp3.1\P225NLayerArchitectura.Core.dll
+C:\Users\hamid.mammadov\Desktop\P225NLayerArchitectura\P225NLayerArchitectura.Service\bin\Debug\netcoreapp3.1\P225NLayerArchitectura.Data.dll
+C:\Users\hamid.mammadov\Desktop\P225NLayerArchitectura\P225NLayerArchitectura.Service\bin\Debug\netcoreapp3.1\P225NLayerArchitectura.Data.pdb
+C:\Users\hamid.mammadov\Desktop\P225NLayerArchitectura\P225NLayerArchitectura.Service\bin\Debug\netcoreapp3.1\P225NLayerArchitectura.Core.pdb
+C:\Users\hamid.mammadov\Desktop\P225NLayerArchitectura\P225NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P225NLayerArchitectura.Service.csproj.CopyComplete
+C:\Users\hamid.mammadov\Desktop\P225NLayerArchitectura\P225NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P225NLayerArchitectura.Service.dll
+C:\Users\hamid.mammadov\Desktop\P225NLayerArchitectura\P225NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P225NLayerArchitectura.Service.pdb
